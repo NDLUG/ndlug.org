@@ -1,4 +1,4 @@
 title = "Notre Dame Linux Users Group"
-baseurl = "https://ndlug.org"
+baseurl = "http://ndlug.org"
 languageCode = "en-us"
 theme='after-dark'
