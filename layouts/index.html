@@ -8,7 +8,9 @@
   <header>
     <h1>{{ .Title }}</h1>
     This is the site for the Notre Dame Linux Users Group. <br>
-    We meet weekly on Wednesdays, from 5-6pm in 356A Fitzpatrick Hall.
+    We meet weekly on Wednesdays, from 5-6pm in 356A Fitzpatrick Hall. <br>
+    We have a very active slack channel - if you have an nd.edu email,
+    [sign up](https://nd-cse.slack.com/signup)!
     <hr>
   </header>
   {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
