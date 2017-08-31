@@ -1,0 +1,7 @@
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://github.com/comfusion/after-dark
+[submodule "public"]
+	path = public
+	url = git@github.com:ndlug/ndlug.github.io.git
+	branch = master

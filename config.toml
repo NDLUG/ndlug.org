@@ -1,0 +1,4 @@
+title = "Notre Dame Linux Users Group"
+baseurl = "https://ndlug.org"
+languageCode = "en-us"
+theme='after-dark'
