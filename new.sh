@@ -1,4 +1,8 @@
 #!/bin/bash
+if [ $# = 0 ] ; then
+    echo "USAGE: $0 Title of post"
+    exit 1
+fi
 title="$@"
 name=${title// /-}
 hugo new "post/$name.md"

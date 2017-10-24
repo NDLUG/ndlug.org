@@ -22,5 +22,5 @@ This is a big title
 This is a smaller title
 -----------------------
 
-*this is in italics* **this is bold** `this is monospaced`
+*this is emphasized* **this is bold** `this is monospaced`
 [this is a link](https://google.com)
