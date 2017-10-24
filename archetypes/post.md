@@ -1,5 +1,5 @@
 +++
-title = "Post title here"
+title = "!!!TITLE_HERE!!!"
 description = "Enter something useful here"
 draft = true
 toc = false
