@@ -13,3 +13,14 @@ This text appears in the summary and the article. Keep this part short.
 
 This text appears in the article but not the summary.
 Remember to change `draft = true` to `draft = false` when you are done.
+
+Some things about markdown:
+
+This is a big title
+====================
+
+This is a smaller title
+-----------------------
+
+*this is in italics* **this is bold** `this is monospaced`
+[this is a link](https://google.com)
