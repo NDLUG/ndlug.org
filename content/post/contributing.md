@@ -42,6 +42,11 @@ script, simply invoke `./new.sh Tile of your new post` where **Title of your new
 will remove the spaces and replace them with dashes for the file name and it will keep the spaces in the post title. This will ensure that the post titles are consistent with their file names,
 which will be good for organization.
 
+Testing
+-------
+
+Simply run `hugo serve` to test the site. Then, in your favorite web browser, visit `localhost:1313` - the site should load. Please preview your changes before trying to merge them!
+
 Making it Live
 --------------
 
