@@ -1,3 +1,6 @@
+p.muted {
+    display: none;
+}
 @keyframes intro {
   0% {
     opacity: 0;
