@@ -16,3 +16,4 @@ Doug and 8bit will talk about esoteric programming languages.
 
 
 {{< viewer "presentation.pdf" >}}
+{{< player "presentation.mp4" >}}
