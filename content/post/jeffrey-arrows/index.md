@@ -1,6 +1,6 @@
 +++
 categories = ["lug"]
-date = "2017-11-14T14:09:20-04:00"
+date = "2018-02-06T14:09:20-04:00"
 description = "NDLUG meeting 02/06/2018"
 draft = false
 tags = ["lug meeting", "arrows"]
