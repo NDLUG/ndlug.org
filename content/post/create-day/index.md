@@ -24,7 +24,5 @@ The Silicon Valley Semester chapter of the Notre Dame Linux User's Group partici
 
 ![](20180317_152052.jpg)
 
-![](20180317_152113.jpg)
-
 ![](20180317_152130.jpg)
 
