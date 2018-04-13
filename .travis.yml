@@ -4,7 +4,7 @@ go:
   - master # This uses automatically the latest version of go
 
 install:
-  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
+  - sudo apt-get install hugo
 
 script:
   - hugo --theme=after-dark # This commands builds your website on travis
