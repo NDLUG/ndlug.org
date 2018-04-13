@@ -31,6 +31,8 @@
     {{ if (isset .Params "next") }}
       <link rel="next" href="{{ .Params.next }}">
     {{ end }}
+    <!-- Materialize css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
     {{ partial "head/favicon.html" . }}
     {{ partial "global-styles.html" . }}
     {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}<!-- http://regexr.com/3f9d1 -->
@@ -41,6 +43,8 @@
       <script async src="/js/bpgdec8a.js"></script>
       <script async src="/js/bpgdec8.js"></script>
       <script async src="/js/bpgdec.js"></script>
+      <!-- Materialize js -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
     {{ end }}
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
