@@ -1,6 +1,3 @@
-{{ define "title" -}}
-  {{ .Site.Title }}
-{{- end }}
 {{ define "header" }}
   {{ partial "menu.html" . }}
 {{ end }}
@@ -8,11 +5,12 @@
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
-    {{ partial "page-summary.html" . }}
-  {{ end }}
+  <ul>
+    {{ range $key, $value := .Data.Terms }}
+      <li><a href="{{ $key | urlize }}">{{ $key }}</a> ({{ len $value }})
+    {{ end }}
+  </ul>
 {{ end }}
 {{ define "footer" }}
-  {{ partial "pagination.html" . }}
   {{ partial "powered-by.html" . }}
 {{ end }}
