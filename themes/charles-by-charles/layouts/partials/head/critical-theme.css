@@ -1,0 +1,22 @@
+.section-link-container {
+    display: flex;
+}
+.section-link {
+    display: flex;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.section-link i {
+    opacity: 0;
+}
+
+.section-link:hover {
+    background-color: #dedede;
+    transition: background-color .25s;
+}
+
+.section-link:hover i {
+    opacity: 1;
+    transition: opacity .25s;
+}

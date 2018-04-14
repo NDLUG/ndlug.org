@@ -1,0 +1,46 @@
+name = "Charles by Charles"
+license = "WTFPL"
+licenselink = ""
+description = "Super theme."
+homepage = "meh"
+tags = [
+  "minimalist",
+  "responsive",
+  "technical",
+  "accessible",
+  "terminal",
+  "custom themes",
+  "simple",
+  "dark"
+]
+features = [
+  "Mobile-optimized",
+  "SEO-optimized",
+  "Responsive Design",
+  "Flexbox Layouts",
+  "Google Analytics",
+  "Disqus",
+  "BPG Image Support",
+  "Lazyloading",
+  "OpenGraph",
+  "Schema Structured Data",
+  "Pagination",
+  "Reading time",
+  "Related content",
+  "Modification dating",
+  "Author byline",
+  "Word Count",
+  "Related Posts",
+  "Section Menu",
+  "Block Templates",
+  "Table of Contents",
+  "Custom Shortcodes",
+  "Keyboard Accessibility",
+  "Inclusive Design",
+  "Theme Variants"
+]
+min_version = 0.27
+
+[author]
+  name = "Charles Shinaver"
+  homepage = "meh"
