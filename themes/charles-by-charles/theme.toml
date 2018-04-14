@@ -1,8 +1,8 @@
-name = "After Dark"
+name = "Charles by Charles"
 license = "WTFPL"
-licenselink = "https://github.com/comfusion/after-dark/blob/master/COPYING"
-description = "A robust, elegant dark theme for Hugo."
-homepage = "https://comfusion.github.io/after-dark/"
+licenselink = ""
+description = "Super theme."
+homepage = "meh"
 tags = [
   "minimalist",
   "responsive",
@@ -42,5 +42,5 @@ features = [
 min_version = 0.27
 
 [author]
-  name = "Josh Habdas"
-  homepage = "https://hackcabin.com"
+  name = "Charles Shinaver"
+  homepage = "meh"
