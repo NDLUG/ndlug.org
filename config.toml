@@ -2,3 +2,11 @@ title = "Notre Dame Linux Users Group"
 baseurl = "http://ndlug.org"
 languageCode = "en-us"
 theme='charles-by-charles'
+sectionPagesMenu = "main"
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 0
