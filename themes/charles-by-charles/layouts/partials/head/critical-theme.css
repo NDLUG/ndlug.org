@@ -1,3 +1,16 @@
+hr {
+    color: #118811;
+}
+nav {
+    background-color: #118811;
+}
+a {
+    color: #a2a500;
+}
+blockquote {
+    border-left: 5px solid #a2a500;
+}
+
 .section-link-container {
     display: flex;
 }
