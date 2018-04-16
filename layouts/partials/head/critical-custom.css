@@ -2,6 +2,7 @@
 
 .row {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .column {
@@ -16,6 +17,10 @@
 
 .leftterm {
     flex: 11%;
+}
+
+.rightterm {
+    flex: 50%;
 }
 
 .spannyboi {
