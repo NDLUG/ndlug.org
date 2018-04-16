@@ -6,17 +6,21 @@
 {{ end }}
 {{ define "main" }}
   <header>
-    <h1>{{ .Title }}</h1>
+      <br>
     This is the site for the Notre Dame Linux Users Group. <br>
     We meet weekly on Tuesdays, 6-7 PM in room 246 of the New Duncan Student Center! <br>
     We have a very active slack channel - if you have an nd.edu email,
     <a href="https://nd-cse.slack.com/signup">sign up!</a>
   </header>
-  {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
-    {{ partial "page-summary.html" . }}
-  {{ end }}
-{{ end }}
-{{ define "footer" }}
-  {{ partial "pagination.html" . }}
-  {{ partial "powered-by.html" . }}
+  <div class="row">
+  <div class="column1">
+    <h3>News</h3>
+      {{ range (.Paginate (where .Data.Pages "Type" "post") 3).Pages }}
+        {{ partial "page-summary-home.html" . }}
+        <hr>
+      {{ end }}
+  </div>
+  <div class="column2">
+    <h3>Words Go Here</h3>
+  </div>
 {{ end }}

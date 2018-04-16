@@ -1,0 +1,42 @@
+.row {
+    display: flex;
+}
+
+.column1 {
+    flex: 66%;
+}
+.column2 {
+    flex: 34%;
+}
+
+blockquote {
+    line-height: 1;
+    margin-top: 0;
+}
+
+.section-link {
+    padding: 0;
+    margin: 0;
+}
+
+h4 {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    margin-top: 7px;
+}
+
+hr {
+    color: #cccccc;
+}
+
+.readmore {
+    text-align: right;
+}
