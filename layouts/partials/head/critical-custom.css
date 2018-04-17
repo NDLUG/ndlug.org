@@ -10,9 +10,11 @@
 }
 .column1 {
     flex: 66%;
+    padding: 10px;
 }
 .column2 {
     flex: 34%;
+    padding: 10px;
 }
 
 .leftterm {
