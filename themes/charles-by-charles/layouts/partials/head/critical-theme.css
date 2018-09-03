@@ -1,0 +1,35 @@
+hr {
+    color: #118811;
+}
+nav {
+    background-color: #118811;
+}
+a {
+    color: #a2a500;
+}
+blockquote {
+    border-left: 5px solid #a2a500;
+}
+
+.section-link-container {
+    display: flex;
+}
+.section-link {
+    display: flex;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.section-link i {
+    opacity: 0;
+}
+
+.section-link:hover {
+    background-color: #dedede;
+    transition: background-color .25s;
+}
+
+.section-link:hover i {
+    opacity: 1;
+    transition: opacity .25s;
+}

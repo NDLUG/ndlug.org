@@ -6,22 +6,78 @@
 {{ end }}
 {{ define "main" }}
   <header>
-    <h1>{{ .Title }}</h1>
-    This is the site for the Notre Dame Linux Users Group. <br>
-    We meet weekly on Tuesdays, 6-7 PM in room 246 of the New Duncan Student Center! <br>
-    We have a very active slack channel - if you have an nd.edu email,
-    <a href="https://nd-cse.slack.com/signup">sign up!</a>
-    <hr>
+      <br>
+      <div class='bar'>
+        Terminal
+      </div>
+      <div class='term'>
+  <div class="row">
+  <div class="leftterm">
+          <pre>
+webmaster@ndlug.org:~$ screenfetch
+                 .88888888:.
+                88888888.88888.
+              .8888888888888888.            
+              888888888888888888            
+              88' _`88'_  `88888            
+              88 88 88 88  88888            
+              88_88_::_88_:88888            
+              88:::,::,:::::8888            
+              88`:::::::::'`8888            
+             .88  `::::'    8:88.
+            8888            `8:888.
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::::'
+        `':::_:' -- '' -'-' `':_::::'`
+      </pre>
+  </div>
+  <div class="rightterm">
+      <br>
+      <br>
+      <br>
+      <ul>
+          <li> <span class="spannyboi">webmaster</span>@<span class="spannyboi">ndlug.org</span></li>
+            <li> <span class="spannyboi">OS</span>: Highly varied</li>
+            <li> <span class="spannyboi">Uptime</span>: 3 years</li>
+            <li> <span class="spannyboi">Members</span>: 189</li>
+            <li> <span class="spannyboi">Shell</span>: Mostly bash</li>
+            <li> <span class="spannyboi">New Year's Resolution</span>: A better blog</li>
+            <li> <span class="spannyboi">WM</span>: Permacloud</li>
+            <li> <span class="spannyboi">Purpose</span>: The mission of the Linux Users Group of Notre Dame (NDLUG) is to promote the use and awareness of open source projects, including but not limited to Linux. We aim to provide a welcoming community for any and all open source enthusiasts and help promote the Hacker Ethic, whose tenets are central to the open source environment.
+            </li>
+      </ul>
+      </div>
+      </div>
+      </div>
   </header>
-  {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
-    {{ partial "page-summary.html" . }}
-  {{ end }}
-{{ end }}
-{{ define "footer" }}
-  {{ partial "pagination.html" . }}
-  {{ partial "powered-by.html" . }}
-  <iframe
-      src="https://kiwiirc.com/client/irc.snoonet.org/?&theme=cli#ndlug"
-      style="border:0; width:100%; height:450px;">
-  </iframe>
+  <div class="row">
+  <div class="column1">
+    <h3>News</h3>
+      {{ range (.Paginate (where .Data.Pages "Type" "post") 3).Pages }}
+        {{ partial "page-summary-home.html" . }}
+        <hr>
+      {{ end }}
+  </div>
+  <div class="column2">
+    <h3>Contact</h3>
+    <ul>
+        <li>Meetings every Tuesday</li>
+        <li>Time: 6-7 PM</li>
+        <li>Location: Duncan Student Center Room 246 </li>
+        <li> <a href="https://nd-cse.slack.com/signup">Slack Channel</a></li>
+        <li> <a href="https://github.com/NDLUG/">GitHub</a></li>
+    </ul>
+  </div>
 {{ end }}

@@ -4,10 +4,10 @@ go:
   - master # This uses automatically the latest version of go
 
 install:
-  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
+  - sudo wget https://github.com/gohugoio/hugo/releases/download/v0.35/hugo_0.35_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
 
 script:
-  - hugo --theme=after-dark # This commands builds your website on travis
+  - hugo --theme=charles-by-charles # This commands builds your website on travis
 
 deploy:
   local_dir: public # Default static site output dir for Hugo
