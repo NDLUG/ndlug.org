@@ -12,7 +12,7 @@ The first meeting of NDLUG in the Fall 2018 Semester.
 
 <!--more-->
 
-We kick off the Fall 2018 semester with many cake, new members brainstorming new ideas for talks and events in the upcoming months, and a demo from sysadmin Doug Smith about retrofitting a Rasberry Pi to play all your favorite childhood games.
+We kick off the Fall 2018 semester with cake, new members brainstorming new ideas for talks and events in the upcoming months, and a demo from sysadmin Doug Smith about retrofitting a Rasberry Pi to play all your favorite childhood games.
 
 <style>img { width: 45%; }</style>
 
