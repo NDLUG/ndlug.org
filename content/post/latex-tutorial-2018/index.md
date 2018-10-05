@@ -1,5 +1,5 @@
 +++
-title = "LaTeX Tutorial with Dr. Chiang"
+title = "LaTeX with Professor Chiang"
 description = "NDLUG Meeting 08/04/2018"
 draft = false
 toc = false
@@ -23,6 +23,9 @@ Profesor Chiang makes an appearance at his first ever LUG meeting to teach us ab
 
 
 ## Helpful Links
-[OverLeaf](https://www.overleaf.com)
+- [OverLeaf](https://www.overleaf.com)
+- [Short Tutorial](http://www.lsv.fr/~schmitz/teach/2011_latex/td.pdf)
+- [Overleaf Tutorial](https://v2.overleaf.com/learn/latex/Main_Page)
+- [TeX as a Programming Language]( http://eijkhout.net/texbytopic/texbytopic.html)
 
 
