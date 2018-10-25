@@ -41,3 +41,6 @@ Also included are some approachable projects, including some from current and pa
 - [HacktoberFest](https://hacktoberfest.digitalocean.com)
 - [GitHub](https://github.com)
 - [Digital Ocean](https://www.digitalocean.com)
+- [Issue Hub](http://issuehub.io/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Up for Grabs](https://up-for-grabs.net/)
