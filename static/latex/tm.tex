@@ -1,0 +1,124 @@
+% Stacks
+
+\def\firsttok#1#2\end{#1}
+\def\resttoks#1#2\end{#2}
+\def\first#1{\expandafter\firsttok#1\end}
+\def\rest#1{\expandafter\resttoks#1\end}
+\def\push#1#2{\edef#2{#1#2}}
+\def\pop#1{\edef#1{\expandafter\resttoks#1\end}}
+
+% Tape
+
+\def\settape#1{\settapehelper#1\end}
+\def\settapehelper#1#2\end{%
+  \def\tapeleft{}%
+  \def\tapecur{#1}% bug: what if tape is empty
+  \def\taperight{#2}%
+}
+\def\writetape#1{\def\tapecur{#1}}
+
+\def\moveleft{%
+  \ifx\empty\tapeleft
+    % Do nothing (Sipser).
+  \else
+    \push\tapecur\taperight
+    \edef\tapecur{\first\tapeleft}%
+    \pop\tapeleft
+  \fi
+}
+\def\moveright{%
+  \push\tapecur\tapeleft
+  \ifx\empty\taperight
+    \def\tapecur{.}%
+  \else
+    \edef\tapecur{\first\taperight}%
+    \pop\taperight
+  \fi
+}
+
+% State
+
+\def\newstate#1#2{\expandafter\def\csname state:#1\endcsname{#2}}
+\def\setstate#1{\def\state{#1}}
+\newstate{qaccept}{$q_{\rm accept}$}
+\newstate{qreject}{$q_{\rm reject}$}
+
+% Transitions
+
+\def\addrule#1#2#3#4#5{\expandafter\def\csname rule:#1,#2\endcsname{{#3}{#4}{#5}}}
+
+\def\step{%
+  \expandafter\let\expandafter\cmd\csname rule:\state,\tapecur\endcsname
+  \ifx\cmd\relax % not sure why this is not \undefined
+    \edef\cmd{\noexpand\stephelper{qreject}{\tapecur}{N}}\cmd
+  \else
+    \expandafter\stephelper\cmd
+  \fi
+}
+\def\stephelper#1#2#3{%
+  \setstate{#1}%
+  \writetape{#2}%
+  \ifx#3L\moveleft\fi
+  \ifx#3R\moveright\fi
+}
+
+\def\run{%
+  \printtape
+  \def\qaccept{qaccept}
+  \def\qreject{qreject}
+  \ifx\state\qaccept
+    \par Accept
+  \else
+    \ifx\state\qreject
+      \par Reject
+    \else
+      \step
+      \run
+    \fi
+  \fi
+}
+
+% Really inefficient
+\def\reverse#1{%
+  \ifx\empty#1
+  \else
+    \edef\f{\first#1}%
+    {\edef\r{\rest#1}\reverse\r}%
+    \f
+  \fi
+}
+
+\def\printtape{\par{\tt
+  \reverse\tapeleft
+  \leavevmode\rlap{\lower\baselineskip\hbox{%
+  $\uparrow\atop{\rlap{\hbox{\csname state:\state\endcsname}}}$%
+  }}\tapecur%
+  \taperight
+}}
+
+\parindent 0pt
+\parskip 12pt plus 2pt
+
+\settape{0000000000000000000000000000000000000000000000000000000000000000}
+\newstate{q1}{$q_1$}
+\newstate{q2}{$q_2$}
+\newstate{q3}{$q_3$}
+\newstate{q4}{$q_4$}
+\newstate{q5}{$q_5$}
+\setstate{q1}
+\addrule{q1}{0}{q2}{.}{R}
+\addrule{q2}{x}{q2}{.}{R}
+\addrule{q2}{0}{q3}{x}{R}
+\addrule{q2}{.}{qaccept}{.}{R}
+\addrule{q3}{0}{q4}{0}{R}
+\addrule{q3}{x}{q3}{x}{R}
+\addrule{q3}{.}{q5}{.}{L}
+\addrule{q4}{0}{q3}{x}{R}
+\addrule{q4}{x}{q4}{x}{R}
+\addrule{q5}{0}{q5}{0}{L}
+\addrule{q5}{x}{q5}{x}{L}
+\addrule{q5}{.}{q2}{.}{R}
+
+\run
+
+\bye
