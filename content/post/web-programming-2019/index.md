@@ -8,7 +8,7 @@ tags = ["python", "hackathon", "web programming"]
 date = "2019-03-27T18:30:00-04:00"
 +++
 
-Professor Bui gives a crash course in web programming using Pythong and Tornado prior to the Library Hackathon
+Professor Bui gives a crash course in web programming using Pythong and Tornado prior to the Library Hackathon.
 
 <!--more-->
 
