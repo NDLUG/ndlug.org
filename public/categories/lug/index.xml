@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lug on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/categories/lug/</link>
+    <description>Recent content in lug on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 17:45:20 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/categories/lug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019-2020 Elections</title>
+      <link>http://ndlug.org/post/2019election/</link>
+      <pubDate>Wed, 17 Apr 2019 17:45:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/2019election/</guid>
+      <description>&lt;p&gt;The Elections for the 2019-2020 School year.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>http://ndlug.org/post/alitteke-tensorflow/</link>
+      <pubDate>Thu, 11 Apr 2019 10:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/alitteke-tensorflow/</guid>
+      <description>&lt;p&gt;Secretary Andrew Litteken talks about the basics and how to get started with Tensorflow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Programming</title>
+      <link>http://ndlug.org/post/web-programming-2019/</link>
+      <pubDate>Wed, 27 Mar 2019 18:30:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/web-programming-2019/</guid>
+      <description>&lt;p&gt;Professor Bui gives a crash course in web programming using Python and Tornado prior to the Library Hackathon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Say hello to chat.ndlug.org!</title>
+      <link>http://ndlug.org/post/chat-ndlug-org-launched/</link>
+      <pubDate>Sat, 16 Feb 2019 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/chat-ndlug-org-launched/</guid>
+      <description>&lt;p&gt;Everyone say hello to chat.ndlug.org, NDLUG&amp;rsquo;s very own host dedicated to chatting!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages and Open Source</title>
+      <link>http://ndlug.org/post/alitteke-pl-comp/</link>
+      <pubDate>Thu, 15 Nov 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/alitteke-pl-comp/</guid>
+      <description>&lt;p&gt;Secratary Andrew Litteken walks us through how to build a compiler for a programming language and the open source space.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ricing</title>
+      <link>http://ndlug.org/post/bui-vajiac-ricing/</link>
+      <pubDate>Thu, 01 Nov 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/bui-vajiac-ricing/</guid>
+      <description>&lt;p&gt;Professor Bui and Vice President Cat Vajiac walk through an introduction to Ricing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HacktoberFest and Contributing to Open Source</title>
+      <link>http://ndlug.org/post/hacktoberfest/</link>
+      <pubDate>Thu, 25 Oct 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/hacktoberfest/</guid>
+      <description>&lt;p&gt;In the midst of HacktoberFest, President Tim Burchfield (8bit) talks about contibuting to Open Source.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LaTeX with Professor Chiang</title>
+      <link>http://ndlug.org/post/latex-tutorial-2018/</link>
+      <pubDate>Fri, 05 Oct 2018 04:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/latex-tutorial-2018/</guid>
+      <description>&lt;p&gt;A crash course in the history of LaTeX, presented by resident ND CSE LaTeX guru Professor Chiang.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Starting the 2018 Fall Semester</title>
+      <link>http://ndlug.org/post/starting-2018/</link>
+      <pubDate>Mon, 03 Sep 2018 09:30:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/starting-2018/</guid>
+      <description>&lt;p&gt;The first meeting of NDLUG in the Fall 2018 Semester.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Ocean Tutorial</title>
+      <link>http://ndlug.org/post/jeffrey-digitalocean/</link>
+      <pubDate>Fri, 13 Apr 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/jeffrey-digitalocean/</guid>
+      <description>&lt;p&gt;As part of the hackathon preparation, a number of members, including Jeffrey, gave short talks on things that might be useful.
+Anyways, Jeffrey didn&amp;rsquo;t make slides, but then someone asked him to after he presented, so he did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git Tutorial</title>
+      <link>http://ndlug.org/post/git-tutorial/</link>
+      <pubDate>Thu, 12 Apr 2018 13:45:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/git-tutorial/</guid>
+      <description>&lt;p&gt;In preparation for the coming hackathon, President Tim Burchfield reviews
+some of the less taught aspects of git, including: Forking, Branching,
+Rebasing, Merging, Pull Requests and Scale&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018-2019 Elections</title>
+      <link>http://ndlug.org/post/2018election/</link>
+      <pubDate>Sun, 18 Mar 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/2018election/</guid>
+      <description>&lt;p&gt;We decided to force people to record videos to run for the officer chairs. Here were the results:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Create Day</title>
+      <link>http://ndlug.org/post/create-day/</link>
+      <pubDate>Sun, 18 Mar 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/create-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Effrey - Language Design</title>
+      <link>http://ndlug.org/post/jeffrey-arrows/</link>
+      <pubDate>Tue, 06 Feb 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/jeffrey-arrows/</guid>
+      <description>&lt;p&gt;In our third talk of the semester, resident blogmaster John Effrey
+discusses his latest adventure in breaking everything he touches -
+creating the worst programming language ever.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ND Web Hosting How To</title>
+      <link>http://ndlug.org/post/howto-site/</link>
+      <pubDate>Tue, 28 Nov 2017 13:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/howto-site/</guid>
+      <description>&lt;p&gt;If you previously maintained your web page by SFTP to webfile.nd.edu,
+that no longer works as of 2017/07/25. The new server is accessed by
+FTPS (FTP over SSL), and the new instructions tell you to use one of
+several graphical FTP clients. But you can use the command-line &lt;code&gt;lftp&lt;/code&gt;
+client.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>John Effrey - Intel Management Engine</title>
+      <link>http://ndlug.org/post/jeffrey-ime/</link>
+      <pubDate>Tue, 14 Nov 2017 18:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/jeffrey-ime/</guid>
+      <description>&lt;p&gt;In our third talk of the semester, resident blogmaster John Effrey
+discusses his latest adventure in breaking everything he touches -
+disabling the intel mangement engine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Esoteric Languages</title>
+      <link>http://ndlug.org/post/doug-8bit-esolangs/</link>
+      <pubDate>Wed, 08 Nov 2017 18:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/doug-8bit-esolangs/</guid>
+      <description>&lt;p&gt;In the second NDLUG talk in the second half of the fall 2017 semester,
+Doug and 8bit will talk about esoteric programming languages.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Will Markley Linux From Scratch</title>
+      <link>http://ndlug.org/post/will-markley-linux-from-scratch/</link>
+      <pubDate>Tue, 24 Oct 2017 18:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/will-markley-linux-from-scratch/</guid>
+      <description>&lt;p&gt;In the first NDLUG talk in the second half of the fall 2017 semester,
+Will Markley will talk about his experience with Linux From Scratch.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

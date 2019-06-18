@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/open-source/</link>
+    <description>Recent content in open source on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 10:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>http://ndlug.org/post/alitteke-tensorflow/</link>
+      <pubDate>Thu, 11 Apr 2019 10:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/alitteke-tensorflow/</guid>
+      <description>&lt;p&gt;Secretary Andrew Litteken talks about the basics and how to get started with Tensorflow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Say hello to chat.ndlug.org!</title>
+      <link>http://ndlug.org/post/chat-ndlug-org-launched/</link>
+      <pubDate>Sat, 16 Feb 2019 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/chat-ndlug-org-launched/</guid>
+      <description>&lt;p&gt;Everyone say hello to chat.ndlug.org, NDLUG&amp;rsquo;s very own host dedicated to chatting!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages and Open Source</title>
+      <link>http://ndlug.org/post/alitteke-pl-comp/</link>
+      <pubDate>Thu, 15 Nov 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/alitteke-pl-comp/</guid>
+      <description>&lt;p&gt;Secratary Andrew Litteken walks us through how to build a compiler for a programming language and the open source space.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HacktoberFest and Contributing to Open Source</title>
+      <link>http://ndlug.org/post/hacktoberfest/</link>
+      <pubDate>Thu, 25 Oct 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/hacktoberfest/</guid>
+      <description>&lt;p&gt;In the midst of HacktoberFest, President Tim Burchfield (8bit) talks about contibuting to Open Source.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/2018/</link>
+    <description>Recent content in 2018 on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Sep 2018 09:30:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting the 2018 Fall Semester</title>
+      <link>http://ndlug.org/post/starting-2018/</link>
+      <pubDate>Mon, 03 Sep 2018 09:30:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/starting-2018/</guid>
+      <description>&lt;p&gt;The first meeting of NDLUG in the Fall 2018 Semester.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

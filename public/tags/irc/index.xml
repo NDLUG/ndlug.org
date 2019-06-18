@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>irc on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/irc/</link>
+    <description>Recent content in irc on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Feb 2019 17:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/irc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Say hello to chat.ndlug.org!</title>
+      <link>http://ndlug.org/post/chat-ndlug-org-launched/</link>
+      <pubDate>Sat, 16 Feb 2019 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/chat-ndlug-org-launched/</guid>
+      <description>&lt;p&gt;Everyone say hello to chat.ndlug.org, NDLUG&amp;rsquo;s very own host dedicated to chatting!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>esolangs on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/esolangs/</link>
+    <description>Recent content in esolangs on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Nov 2017 18:09:20 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/esolangs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Esoteric Languages</title>
+      <link>http://ndlug.org/post/doug-8bit-esolangs/</link>
+      <pubDate>Wed, 08 Nov 2017 18:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/doug-8bit-esolangs/</guid>
+      <description>&lt;p&gt;In the second NDLUG talk in the second half of the fall 2017 semester,
+Doug and 8bit will talk about esoteric programming languages.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

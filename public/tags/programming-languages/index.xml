@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming languages on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/programming-languages/</link>
+    <description>Recent content in programming languages on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Nov 2018 17:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming Languages and Open Source</title>
+      <link>http://ndlug.org/post/alitteke-pl-comp/</link>
+      <pubDate>Thu, 15 Nov 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/alitteke-pl-comp/</guid>
+      <description>&lt;p&gt;Secratary Andrew Litteken walks us through how to build a compiler for a programming language and the open source space.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

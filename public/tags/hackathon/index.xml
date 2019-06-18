@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/hackathon/</link>
+    <description>Recent content in hackathon on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 18:30:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Programming</title>
+      <link>http://ndlug.org/post/web-programming-2019/</link>
+      <pubDate>Wed, 27 Mar 2019 18:30:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/web-programming-2019/</guid>
+      <description>&lt;p&gt;Professor Bui gives a crash course in web programming using Python and Tornado prior to the Library Hackathon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Ocean Tutorial</title>
+      <link>http://ndlug.org/post/jeffrey-digitalocean/</link>
+      <pubDate>Fri, 13 Apr 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/jeffrey-digitalocean/</guid>
+      <description>&lt;p&gt;As part of the hackathon preparation, a number of members, including Jeffrey, gave short talks on things that might be useful.
+Anyways, Jeffrey didn&amp;rsquo;t make slides, but then someone asked him to after he presented, so he did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git Tutorial</title>
+      <link>http://ndlug.org/post/git-tutorial/</link>
+      <pubDate>Thu, 12 Apr 2018 13:45:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/git-tutorial/</guid>
+      <description>&lt;p&gt;In preparation for the coming hackathon, President Tim Burchfield reviews
+some of the less taught aspects of git, including: Forking, Branching,
+Rebasing, Merging, Pull Requests and Scale&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

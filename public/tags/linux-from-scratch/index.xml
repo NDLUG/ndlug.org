@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux from scratch on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/linux-from-scratch/</link>
+    <description>Recent content in linux from scratch on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2017 18:09:20 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/linux-from-scratch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Will Markley Linux From Scratch</title>
+      <link>http://ndlug.org/post/will-markley-linux-from-scratch/</link>
+      <pubDate>Tue, 24 Oct 2017 18:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/will-markley-linux-from-scratch/</guid>
+      <description>&lt;p&gt;In the first NDLUG talk in the second half of the fall 2017 semester,
+Will Markley will talk about his experience with Linux From Scratch.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

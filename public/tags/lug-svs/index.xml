@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lug svs on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/tags/lug-svs/</link>
+    <description>Recent content in lug svs on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Mar 2018 14:09:20 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/tags/lug-svs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>World Create Day</title>
+      <link>http://ndlug.org/post/create-day/</link>
+      <pubDate>Sun, 18 Mar 2018 14:09:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/post/create-day/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Notre Dame Linux Users Group</title>
+    <link>http://ndlug.org/categories/</link>
+    <description>Recent content in Categories on Notre Dame Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 17:45:20 -0400</lastBuildDate>
+    
+	<atom:link href="http://ndlug.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lug</title>
+      <link>http://ndlug.org/categories/lug/</link>
+      <pubDate>Wed, 17 Apr 2019 17:45:20 -0400</pubDate>
+      
+      <guid>http://ndlug.org/categories/lug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>http://ndlug.org/categories/open-source/</link>
+      <pubDate>Thu, 25 Oct 2018 17:00:00 -0400</pubDate>
+      
+      <guid>http://ndlug.org/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
