@@ -1,6 +1,6 @@
 <br>
 <video id="my-video" class="video-js" controls preload="none" width="640" height="264" data-setup="{}">
-<source src="{{ .Page.URL | safeURL }}{{ .Get 0 }}" type='video/mp4'>
+<source src="{{ .Page.Permalink | safeURL }}{{ .Get 0 }}" type='video/mp4'>
 </video>
 
 <script src="/video.js"></script>
