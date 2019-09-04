@@ -31,10 +31,11 @@ next week's internship panel!
 
 {{< viewer "pamphlet_final.pdf" >}}
 
+
 {{< viewer "activities_fair_2019.pdf" >}}
 
 
 ### Thanks to all those who stopped by!
 
-{{< figure src="activitiesfair2019.jpg" title="officers" >}}
+{{< figure src="activitiesfair2019.jpg" alt="officers" width="50%" height="auto" >}}
 
