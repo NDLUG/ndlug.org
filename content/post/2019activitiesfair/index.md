@@ -19,8 +19,8 @@ The NDLUG officers are extremely excited for what's in store this year, and we
 hope you are, too! President Logan Yokum put together some neat flyers and handouts
 to show off what LUG is, what we do, and what we have planned.
 Along with Logan, officers Noah Yoshida, Michael Eisemann, and Gavin Inglis spoke
-to prospective members, handed out stickers and candy, and demonstrated some of ways
-in which they use Linux.
+to prospective members, handed out stickers and candy, and demonstrated some of the
+ways in which they use Linux.
 
 #### This year, we had a record total of 78 people join our mailing list!
 
@@ -37,5 +37,4 @@ next week's internship panel!
 ### Thanks to all those who stopped by!
 
 {{< figure src="activitiesfair2019.jpg" title="officers" >}}
-
 
