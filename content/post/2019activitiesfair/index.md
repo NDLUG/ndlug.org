@@ -37,5 +37,4 @@ next week's internship panel!
 
 ### Thanks to all those who stopped by!
 
-{{< figure src="activitiesfair2019.jpg" alt="officers" width="50%" height="auto" >}}
-
+<img src="activitiesfair2019.jpg" alt="officers" width="800" height="auto"\>
