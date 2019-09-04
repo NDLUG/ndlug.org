@@ -4,7 +4,8 @@ go:
   - master # This uses automatically the latest version of go
 
 install:
-  - sudo wget https://github.com/gohugoio/hugo/releases/download/v0.35/hugo_0.35_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
+  - sudo wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb -O /tmp/hugo.deb
+  - sudo dpkg -i /tmp/hugo.deb
 
 script:
   - hugo --theme=charles-by-charles # This commands builds your website on travis
