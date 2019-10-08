@@ -1,6 +1,6 @@
 +++
 categories = ["lug"]
-date = "2019-10-05T17:00:00-04:00"
+date = "2019-10-08T17:00:00-04:00"
 description = "Eamon Lopez Marmion (elopez7)"
 draft = false
 tags = ["lug"]
