@@ -17,7 +17,7 @@ My name is Parker Chun. I am a current sophomore studying computer science at th
 
 <br>
 Apart from my computer science related coursework, extracurriculars, and interests,
-I like to dance, play the piano, and play basketball
+I like to dance, play the piano, and play basketball.
 <br>
 <br>
 
