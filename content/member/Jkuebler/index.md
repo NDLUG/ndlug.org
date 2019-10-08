@@ -14,6 +14,6 @@ toc = false
 
 <br>
 My name is Joe Kuebler. I am a current sophomore studying computer science at the University of Notre Dame.
-
-
+<br>
+Some things i enjoy outisde of cimputer science are soccer, politics, and traveling.
 <br>
