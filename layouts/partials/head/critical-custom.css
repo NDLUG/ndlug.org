@@ -70,6 +70,7 @@ ul {
     width: 85%;
     background-color: #fdfdc9;
     font-size: 6pt;
+    font-family: monospace; 
 }
 
 p {
@@ -87,4 +88,21 @@ hr {
 
 .readmore {
     text-align: right;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #242424;
+    color: #e4e4e4;
+  }
+  a {
+    color: rgb(107, 210, 95);
+  }
+  img {
+    filter: grayscale(30%);
+  }
+
+  .term {
+    background-color: #181818; 
+  }
 }
