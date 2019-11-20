@@ -60,7 +60,7 @@ Samba Server hosts and serves files, such as movies. Then, in Kodi, one can conf
 access to the server's movies, pictures, etc. This seems to be a great alternative to a Roku or even Chromecast.
 
 <br>
-While the blog writer was unable to snag a picture of the movie Moana streaming via Kodi, trust me - it happened :)
+After getting things set up and working, some LUG members started to watch Moana via Kodi!
 
 <br>
 
