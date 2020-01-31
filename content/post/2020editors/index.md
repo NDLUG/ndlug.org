@@ -39,6 +39,9 @@ optimal way to take in class notes.
 
 He ended his presentation saying "I mostly just use vim...".
 
+
+[SLIDES](https://docs.google.com/presentation/d/1mebz5I6aMXKYgd446F41wHV7Nxgn50WBTHMR40rvCso/edit?usp=sharing) from his presentation!
+
 ## Vim
 
 <center>
