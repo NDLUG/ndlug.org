@@ -1,6 +1,6 @@
 +++
 categories = ["lug", "text editors", "ide"]
-date = "2020-1-29T17:00:00-04:00"
+date = "2020-01-29T17:00:00-04:00"
 description = "LUG members share and learn about text editors"
 draft = false
 tags = ["lug", "text editors", "ide"]
