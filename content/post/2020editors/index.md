@@ -16,7 +16,7 @@ LUG members share and learn about text editors.
 ## Text 1
 
 <center>
-<img src="retropi.jpg" alt="retropi" width="800" height="auto"\>
+<img src="chadbill.jpg" alt="yung william" width="800" height="auto"\>
 <br>
 *LUG member and graduate student William "Bill" Theisen showing off emacs*
 <br>
@@ -35,10 +35,14 @@ Spacemacs is an emacs "distro", which has Vim keybindings (which Bill claims as 
 From writing class notes in org-mode to evaluating python code like a jupyter notebook, Bill described the
 optimal way to take in class notes.
 
+<br>
+
+He ended his presentation saying "I mostly just use vim...".
+
 ## Vim
 
 <center>
-<img src="noah-smba.jpg" alt="samba" width="800" height="auto"\>
+<img src="blyons.jpg" alt="blyons" width="800" height="auto"\>
 <br>
 *Ben shares his superior text editor*
 <br>
@@ -49,11 +53,11 @@ Ben shared his favorite editor, Vim. With BUILT IN vim keybindings, and no need 
 He showed basic commands and the built in Vim tutor to show its ease.
 He even showed us how to exit vim!
 Ben went on to explain the extensibility of vim with its Plugin system, and the vimrc configuration file.
-i
+
 ## VSCode
 
 <center>
-<img src="logan-kodi.jpg" alt="kodi" width="800" height="auto"\>
+<img src="sbattali.jpg" alt="sbattali" width="800" height="auto"\>
 <br>
 *Sam shows off VSCode*
 <br>
@@ -63,12 +67,12 @@ i
 Sam showed off VSCode. He talked about its extensibility, ease of use, and ssh-ability.
 He showed off how easy it is to make it work just like your favorite editor, but in VSCode.
 Further, he talked about git (with help from Zephan) and how it is built in to VSCode from the start.
-
+He even shilled a telemtry free version of VSCode called VSCodium!
 
 ## Atom
 
 <center>
-<img src="logan-kodi.jpg" alt="kodi" width="800" height="auto"\>
+<img src="juluis.jpg" alt="julius" width="800" height="auto"\>
 <br>
 *Julius teaches about Atom*
 <br>
@@ -81,9 +85,9 @@ Julius showed off Atom. Sharing the quick flight manual, plugins, and general us
 ## Pycharm
 
 <center>
-<img src="logan-kodi.jpg" alt="kodi" width="800" height="auto"\>
+<img src="noah.jpg" alt="noah" width="800" height="auto"\>
 <br>
-*Noah shills PyCharm*
+*Noah shills PyCharm (NOT PICTURED, here is a picture of Noah from our [YOUTUBE CHANNEL](https://www.youtube.com/channel/UCgjD_i0PrkKerzrN9OsheWg)*
 <br>
 <br>
 </center>
