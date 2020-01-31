@@ -72,7 +72,7 @@ He even shilled a telemtry free version of VSCode called VSCodium!
 ## Atom
 
 <center>
-<img src="juluis.jpg" alt="julius" width="800" height="auto"\>
+<img src="julius.jpg" alt="julius" width="800" height="auto"\>
 <br>
 *Julius teaches about Atom*
 <br>
