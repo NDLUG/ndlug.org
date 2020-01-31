@@ -13,7 +13,7 @@ LUG members share and learn about text editors.
 
 <!--more-->
 
-## Text 1
+## Emacs / Spacemacs
 
 <center>
 <img src="chadbill.jpg" alt="yung william" width="800" height="auto"\>
