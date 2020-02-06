@@ -16,7 +16,7 @@ Lug members learn about Remote Computing in a variety of applied concepts.
 ## Pkgsrc + SSH
 
 <center>
-<img src="bui.jpg" alt="bui" width="800" height="auto"\>
+<img src="bui.jpg" alt="bui" width="100%" height="auto"\>
 <br>
 *Professor Bui explains how to avoid having to use sudo on stuent machines*
 <br>
@@ -39,7 +39,7 @@ By simple setting it up with the right flags, you can run it without using the *
 
 <br> 
 <center>
-<img src="SUDO.JPG" alt="ramzi" width="800" height="auto"\>
+<img src="SUDO.JPG" alt="ramzi" width="100%" height="auto"\>
 <br>
 *Dont use Sudo*
 <br>
@@ -56,7 +56,7 @@ Pretty elite hacking if you ask me.
 ## Tmux + Powerline
 
 <center>
-<img src="sam.jpg" alt="samba" width="800" height="auto"\>
+<img src="sam.jpg" alt="samba" width="100%" height="auto"\>
 <br>
 *Sam flexes his brain with Tmux*
 <br>
@@ -75,7 +75,7 @@ status bar to the bottom of the tmux session.
 ## TigerVNC + Web registration on campus
 
 <center>
-<img src="logan.jpg" alt="logan" width="800" height="auto"\>
+<img src="logan.jpg" alt="logan" width="100%" height="auto"\>
 <br>
 *Logan shows off TigerVNC*
 <br>
