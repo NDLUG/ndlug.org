@@ -20,7 +20,7 @@
   "dependencies": {
     "atom-one-pgyments": "^1.0.0",
     "hack": "^0.8.0",
-    "lazysizes": "^4.0.0-rc3",
+    "lazysizes": "^5.2.1",
     "smoothscroll-polyfill": "^0.3.4"
   },
   "devDependencies": {
