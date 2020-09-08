@@ -1,12 +1,11 @@
 +++
 categories = ["lug", "podcast", "privacy"]
-date = "2020-09-07T10:00:00-04:00"
+date = "2020-09-08T10:00:00-04:00"
 description = "Lugcast Episode 3"
 draft = false
 tags = ["lug", "podcast", "privacy"]
-title = "Lugcast Episode 3
+title = "Lugcast Episode 3"
 toc = false
-
 +++
 
 
