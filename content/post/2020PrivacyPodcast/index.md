@@ -1,12 +1,11 @@
 +++
 categories = ["lug", "podcast", "privacy"]
-date = "2020-09-07T10:00:00-04:00"
+date = "2020-09-08T10:00:00-04:00"
 description = "Lugcast Episode 3"
 draft = false
 tags = ["lug", "podcast", "privacy"]
-title = "Lugcast Episode 3
+title = "Lugcast Episode 3"
 toc = false
-
 +++
 
 
@@ -16,13 +15,13 @@ Mike, Bui, and Zephan talk about privacy online and how you can protect it!
 
 ## FOSS News
 
-1. [Apple blocks Facebook update that called out 30-percent App Store ‘tax’]()
+1. [Apple blocks Facebook update that called out 30-percent App Store ‘tax’](https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut)
 
-2. [Steam On Linux Is Ending Summer 2020 At Just Under 0.9% Marketshare]()
+2. [Steam On Linux Is Ending Summer 2020 At Just Under 0.9% Marketshare](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-August-2020)
 
-3. [Relying on plain-text email is a 'barrier to entry' for kernel development, says Linux Foundation board member (via Embrace, extend, and finally extinguish - Microsoft plays their hand)]()
+3. [Relying on plain-text email is a 'barrier to entry' for kernel development, says Linux Foundation board member (via Embrace, extend, and finally extinguish - Microsoft plays their hand)](https://drewdevault.com/2020/08/27/Microsoft-plays-their-hand.html)
 
-4. [Ubuntu Touch OTA-13 Is Coming on September 4th with Support for Many New Devices]
+4. [Ubuntu Touch OTA-13 Is Coming on September 4th with Support for Many New Devices](https://9to5linux.com/ubuntu-touch-ota-13-is-coming-on-september-4th-with-support-for-many-new-devices)
 
 
 ## Privacy!
