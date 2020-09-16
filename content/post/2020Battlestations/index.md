@@ -39,6 +39,7 @@ We had a number of members send in their setups to be reviewed/roasted/talked ab
 ## VODs
 
 1. [Podcast Twitch VOD](https://www.twitch.tv/videos/736533980)
+2. [YouTube](https://www.youtube.com/watch?v=_gbtkHs0ND8)
 
 
 ### Thanks to all those who joined us and thanks to those who submitted battlestations!
