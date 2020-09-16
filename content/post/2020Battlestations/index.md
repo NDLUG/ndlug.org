@@ -40,8 +40,6 @@ We had a number of members send in their setups to be reviewed/roasted/talked ab
 
 1. [Podcast Twitch VOD](https://www.twitch.tv/videos/736533980)
 
-2. [Podcast - YouTube](https://www.youtube.com/watch?v=CHexrxA6Q-w)
-
 
 ### Thanks to all those who joined us and thanks to those who submitted battlestations!
 
