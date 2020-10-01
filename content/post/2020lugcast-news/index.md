@@ -1,7 +1,7 @@
 +++
 categories = ["lug", "podcast"]
 date = "2020-09-23T10:00:00-04:00"
-description "LugCast: Let's get riiight into the news!"
+description = "LugCast: Let's get riiight into the news!"
 draft = false
 tags = ["lug", "podcast"]
 title = "LugCast: Let's get riiight into the news!"
