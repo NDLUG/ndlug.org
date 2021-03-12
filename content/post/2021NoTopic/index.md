@@ -14,15 +14,15 @@ Unable to come up with a generalized theme this week, really trying to embody th
 <!--more-->
 
 ### Catchup
-- pnutzh4x0r has finally started to leave his beefy gaming laptop at home for Caleb to play, so hasn't been able to no-life Minecraft Dungeons at above 10fps as much as he planned to. He's also thwarted ScentedFern's attempt to replace his beloved Wizard of Legend with Hades! But it seems nothing will replace the game he's beaten way too many times already. He has recently upgraded his systems to [OpenSSL](https://www.openssl.org/) too. The first [Systems Programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp21/) exam was a record-breaking success, not at all due to open-book, open-internet, and time extensions for the killer portion of the exam. Finally, he was **honored** to speak to the parents during his [JPW showcase](https://jpw.nd.edu/events/2021/03/06/college-of-engineering/).
-- ScentedFern has been addictively latching yldme hooks everywhere he possibly can. He finally updated his extremely out-of-date Weechat on his Android because the Play Store distributors were too incompetent. Finally, he's been looking into contributing to [yldme](yld.me) to support uploading images from the clipboard, since we all love copy and pasting. Who doesn't?
-- AndroidKitKat has been being an average Apple software enjoyer and believes that the app-making toolkits Apple offers are unbeatable.
+1. pnutzh4x0r has finally started to leave his beefy gaming laptop at home for Caleb to play, so hasn't been able to no-life Minecraft Dungeons at above 10fps as much as he planned to. He's also thwarted ScentedFern's attempt to replace his beloved Wizard of Legend with Hades! But it seems nothing will replace the game he's beaten way too many times already. He has recently upgraded his systems to [OpenSSL](https://www.openssl.org/) too. The first [Systems Programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp21/) exam was a record-breaking success, not at all due to open-book, open-internet, and time extensions for the killer portion of the exam. Finally, he was **honored** to speak to the parents during his [JPW showcase](https://jpw.nd.edu/events/2021/03/06/college-of-engineering/).
+2. ScentedFern has been addictively latching yldme hooks everywhere he possibly can. He finally updated his extremely out-of-date Weechat on his Android because the Play Store distributors were too incompetent. Finally, he's been looking into contributing to [yldme](yld.me) to support uploading images from the clipboard, since we all love copy and pasting. Who doesn't?
+3. AndroidKitKat has been being an average Apple software enjoyer and believes that the app-making toolkits Apple offers are unbeatable.
 
 ### Club Announcements
-- APPA, our resident dormant machine, is going to be repurposed for the renewing Video Game Club's Minecraft Server. (Sneak peek to a future podcast!)
-- **We're planning to finally meet in person next week!** We're planning to meet in the CSE Commons and show off our Linux setups to each other.
-- LUG almost became extinct! What an epic gamer moment. Thanks, SAO!
-- We have mock-up [t-shirt](https://yld.me/raw/aWkK.png) [designs](https://yld.me/raw/dD4t.png)! Suggestions are O-P-E-N!
+1. APPA, our resident dormant machine, is going to be repurposed for the renewing Video Game Club's Minecraft Server. (Sneak peek to a future podcast!)
+2. **We're planning to finally meet in person next week!** We're planning to meet in the CSE Commons and show off our Linux setups to each other.
+3. LUG almost became extinct! What an epic gamer moment. Thanks, SAO!
+4. We have mock-up [t-shirt](https://yld.me/raw/aWkK.png) [designs](https://yld.me/raw/dD4t.png)! Suggestions are O-P-E-N!
 
 ### Topics Discussed
 
